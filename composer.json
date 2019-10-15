@@ -1,7 +1,6 @@
 {
     "name": "zeroone2005/qcloud-sts-sdk",
     "description": "qcloud 生成临时密钥",
-    "type": "project",
     "keywords": [
         "qcloud",
         "sts"
