@@ -17,8 +17,6 @@
     },
     "minimum-stability": "dev",
     "autoload" : {
-        "psr-4": {
-            "Qcloud\\": "src/Qcloud"
-        }
+        "psr-4": {"Qcloud\\" : "src/Qcloud"}
     }
 }

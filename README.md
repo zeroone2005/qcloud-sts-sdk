@@ -6,7 +6,7 @@
 
 
 ## 安装包
-`composer require zeroone/qcloud-sts-sdk`
+`composer require zeroone2005/qcloud-sts-sdk`
 
 
 ## 接口说明
