@@ -1,5 +1,5 @@
 <?php
-namespace Qcloud;
+namespace QcloudStsSdk;
 
 class STS{
 	// 临时密钥计算样例
