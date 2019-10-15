@@ -1,0 +1,11 @@
+{
+    "name": "zeroone2005/qcloud-sts-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zeroone2005",
+            "email": "858338339@qq.com"
+        }
+    ],
+    "require": {}
+}
