@@ -17,6 +17,6 @@
     },
     "minimum-stability": "dev",
     "autoload" : {
-        "psr-4": {"QcloudStsSdk\\" : "src"}
+        "psr-4": {"Qcloud\\" : "src/Qcloud"}
     }
 }

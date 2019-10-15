@@ -1,6 +1,6 @@
 <?php
 
-namespace QcloudStsSdk;
+namespace Qcloud;
 
 class Scope{
 
