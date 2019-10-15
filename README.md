@@ -41,8 +41,7 @@
 
 ## 使用示例
 ```php
-include 'sts.php'
-
+use Qcloud\STS;
 //方法一
 // 配置参数
 $config = array(
@@ -156,7 +155,7 @@ echo json_encode($tempKeys);
 
 ### 使用示例
 ```php
-include 'sts.php'
+use Qcloud\STS;
 
 $scopes = array();
 array_push($scopes,new Scope("name/cos:PutObject", "example-1250000000", "ap-guangzhou", "/1.txt"));
