@@ -1,5 +1,11 @@
 {
     "name": "zeroone2005/qcloud-sts-sdk",
+    "description": "qcloud 生成临时密钥",
+    "type": "project",
+    "keywords": [
+        "qcloud",
+        "sts"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -7,5 +13,13 @@
             "email": "858338339@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4": {
+            "Qcloud\\": "src/"
+        }
+    }
 }
